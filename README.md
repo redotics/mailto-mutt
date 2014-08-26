@@ -8,28 +8,28 @@ easy installation
 
  * Copy *mailto-mutt* to your favorite executable directory:
 
-/my/path/mailto-mutt
+   _/my/path/mailto-mutt_
 
- * Edit, read and configure /my/path/mailto-mutt
+ * Edit, read and configure _/my/path/mailto-mutt_
 
- * chmod 700 /my/path/mailto-mutt
+ * chmod 700 _/my/path/mailto-mutt_
  
  * Then configure your browser to use this script for *mailto:* links
  
    * __Firefox__ use the following menu:
 
-     Edit Menu -> Preferences -> Applications
-     and find '''mailto'''
+     Edit Menu -> Preferences -> Applications: find __mailto__ and configure it
+     with __Use Other...__
 
 
 complex installation
 ====================
 
-Checkout the easy installation
+Turn off your computer and checkout the easy installation, it should be much more complex.
 
 
 licence
 =======
 
-bah come on! v1.0
+bah-come-on-just-feel-free-and-share v8.0
 
