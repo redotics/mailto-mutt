@@ -3,6 +3,10 @@ mailto-mutt
 
 Use Mutt as your default email agent in Firefox with this simple shell script
 
+Mutt is a small and very powerful text-based E-Mail Client.
+http://www.mutt.org
+
+
 easy installation
 =================
 
@@ -19,7 +23,7 @@ easy installation
    * __Firefox__ use the following menu:
 
      Edit Menu -> Preferences -> Applications: find __mailto__ and configure it
-     with __Use Other...__
+     with __Use other...__
 
 
 complex installation
