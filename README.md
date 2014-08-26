@@ -1,7 +1,7 @@
 mailto-mutt
 ===========
 
-Use Mutt as your default email agent in Firefox with this simple shell script
+Use Mutt as your default email agent in Firefox/Opera with this simple shell script
 
 Mutt is a small and very powerful text-based E-Mail Client.
 http://www.mutt.org
@@ -25,6 +25,11 @@ easy installation
      Edit Menu -> Preferences -> Applications: find __mailto__ and configure it
      with __Use other...__
 
+   * __Opera__ use the following menu:
+
+     Opera -> Settings -> Preferences -> Advanced -> Programs: Add or Edit the
+     mailto protocol and choose __Open with other application__
+
 
 complex installation
 ====================
@@ -36,4 +41,10 @@ licence
 =======
 
 bah-come-on-just-feel-free-and-share v8.0
+
+
+contact
+=======
+
+tweetto:@redsharpbyte
 
